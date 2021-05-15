@@ -1,7 +1,7 @@
 # Skill-Recommendation
 
-## Collaborators: Gurpreet, Anurag, Swaraj
-## Project Purpose: 7th Semester Project
+## Collaborators: Anurag Kumaar Singh
+## Project Purpose: 8th Semester Project
 ## Professor: Mr. V.K. Jha
 ## License: Open Source
 
