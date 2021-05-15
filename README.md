@@ -1,6 +1,6 @@
 # Skill-Recommendation
 
-## Collaborators: Anurag Kumaar Singh
+## Collaborators: Anurag Kumar Singh
 ## Project Purpose: 8th Semester Project
 ## Professor: Mr. V.K. Jha
 ## License: Open Source
